@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @charlesndzana
 - 👀 I’m interested in cloud software/applications integration.
-- 🌱 I’m currently learning Docker and Kubernetes
+- 🌱 I’m currently Image classification
 - 💞️ I’m looking to collaborate on projects with high need for various technology integration.
 - 📫 How to reach me: LinkedIn @charlesndzana
 
