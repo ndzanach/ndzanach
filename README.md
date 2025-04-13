@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Charles Ndzana
-- 👀 I’m interested in Cloud | Networks | Software | Systems | Ai Solutions | IoT | Traditional IT | Support.
-- 🌱 I’m currently learning Image classification using Machine Learning
+- 👀 I’m interested in Cloud Architect | DevOps Engineer | Solving Complex Problems with Simple, Reliable Solutions.
 - 💞️ I’m looking to collaborate on projects within my area of interest.
 - 📫 How to reach me: www.linkedin.com/in/charlesndzana
 
