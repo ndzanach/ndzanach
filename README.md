@@ -7,6 +7,7 @@ Experienced Cloud & DevOps Architect with over 5 years of designing scalable, re
 • ☁️ Cloud Infrastructure Design & Deployment
 
   → AWS (EC2, S3, Lambda, API Gateway, CloudFront, Cognito, Elastic Beanstalk)
+  
   → GCP (Compute Engine, Cloud Functions, Storage, Alerting)
 
 • 🛠️ Infrastructure as Code (IaC)
