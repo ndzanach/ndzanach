@@ -69,12 +69,15 @@ Experienced Cloud & DevOps Architect with over 5 years of designing scalable, re
   → Assess, plan, implement, and scale DevOps practices tailored to your infrastructure and team needs.
 
 
-🧠 Soft Skills That Elevate Every Project
+• 🧠 Soft Skills That Elevate Every Project
 
-• 📝 Strong documentation & knowledge transfer
-• 🧩 Pragmatic, solution-driven decision-making
-• 🗂️ Effective organisation & systems thinking
-• ⏱ Reliable delivery with respect for schedules
+  → 📝 Strong documentation & knowledge transfer
+  
+  → 🧩 Pragmatic, solution-driven decision-making
+  
+  → 🗂️ Effective organisation & systems thinking
+  
+  → ⏱ Reliable delivery with respect for schedules
 
 Let’s build something that works — and keeps working.
 
